@@ -1,5 +1,4 @@
 # JOH-holdings
-
 Shopify website for funeral and coffine accessories
 
 https://coffinhandles.eu/
